@@ -2,6 +2,9 @@ a
 ewqeqw
 c
 qweqwe
+NEW LINE 1
+c
+NEW LINE 2
 e
 f
 g
