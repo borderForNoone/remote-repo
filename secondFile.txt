@@ -1,7 +1,7 @@
 a
-b
+NEW LINE 1
 c
-d
+NEW LINE 2
 e
 f
 g
